@@ -1,4 +1,7 @@
 # Powertool
+[![Build status](https://ci.appveyor.com/api/projects/status/ah39otggqy7xu0qm/branch/master?svg=true)](https://ci.appveyor.com/project/Nomango/easy2d/branch/master)
+[![GitHub release](https://img.shields.io/github/release/easy2d/easy2d)](https://github.com/ELEVENStudio-Main/Powertool/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/easy2d/easy2d)](https://github.com/ELEVENStudio-Main/Powertool/blob/master/LICENSE)
 A tool for mythware haters. 极域工具。
 ## Functions
 1.**Kill Mythware**  
