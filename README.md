@@ -7,10 +7,9 @@ A tool for mythware haters. 极域工具。
 2.Run Mythware   
 3.__Shutdown__  
 4.Minimize window   
-5.*Windownize Mythware ( Beta ) 
+5.*Windownize Mythware ( Beta )   
 6.Open pub  
 7.Suspend Mythware
-8.
 
 ## 密码  
 pojieshisb  
